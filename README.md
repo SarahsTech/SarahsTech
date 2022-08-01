@@ -1,6 +1,6 @@
 ### Hi, I'm Sarah 👋🏼👩‍💻
 
-I'm a Software Development student in Denmark 🇩🇰, part-time content creator 💻 & full-time adventure seeker 🧚
+I'm a Software Development student in Denmark 🇩🇰, part-time content creator 💻 & full-time adventure goer 🧚
 
 - 🌱 Currently learning Python and JavaScript 
 - 🌵 Fun fact: I'm Asatru & a Viking reenactor in Scandinavia
