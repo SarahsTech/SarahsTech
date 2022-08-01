@@ -1,5 +1,10 @@
 ### Hi, I'm Sarah 👋🏼👩‍💻
 
+I'm a Software Development student in Denmark 🇩🇰, part-time content creator 💻 & full-time adventure seeker 🧚
+
+- 🌱 Currently learning Python and JavaScript 
+- 🌵 Fun fact: I'm Asatru & a Viking reenactor in Scandinavia
+
 <!--
 **SarahsTech/SarahsTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
